@@ -6,10 +6,16 @@ I'm enthusiastic, enterprising, perseverant, and always motivated.
 I'm always looking to improve and learn new things.
 I am interested in technology, programming, design, marketing, SEO, sem, nature, wine, and pizza. 🍕.
 Vegan 💚
+
+
 BIO. https://edgar.izignamx.com/
+
 CV. (last update 01/2022) https://drive.google.com/file/d/1qr_XpTrTNO8pycjTOL-nF27EwB5PEuhb/view?usp=sharing
+
 Book. (2014-2016) https://drive.google.com/open?id=0BwjnDrnqMQI6b1hWc3RYTlo2Zlk
+
 MAIL. edgar@izignamx.com
+
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/cripterhack) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cripterhack) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cripterhack) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cripterhack) 

@@ -1,10 +1,6 @@
 # 💫About Me :
 Calling & Whatsapp: +52 (553) 376 0889.
-Since I was a child I was interested in computers, I learned by trial and error, from hardware to software nothing has satisfied my curiosity. Self-taught.
-I've 8 years of experience as a web designer and developer.
-I'm enthusiastic, enterprising, perseverant, and always motivated.
-I'm always looking to improve and learn new things.
-I am interested in technology, programming, design, marketing, SEO, sem, nature, wine, and pizza. 🍕.
+Experienced Fullstack Developer with over 10 years of experience in front and backend development, specializing in Ruby on Rails, PHP, and JavaScript. Adept at building scalable web applications and e-commerce platforms, with a deep understanding of API integrations, cloud deployment, and web performance optimization, looking for part-time or per-project opportunities to contribute to innovative projects.
 Vegan 💚
 
 
